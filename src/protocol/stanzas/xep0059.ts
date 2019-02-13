@@ -28,6 +28,7 @@ export interface Paging {
 }
 
 export default {
+    aliases: ['iq.pubsub.paging'],
     element: 'set',
     fields: {
         after: attribute('after'),
