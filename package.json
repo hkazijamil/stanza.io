@@ -21,7 +21,7 @@
         "tslib": "^1.9.3",
         "uuid": "^3.0.1",
         "wildemitter": "^1.0.1",
-        "ws": "^6.1.2"
+        "ws": "^6.1.4"
     },
     "devDependencies": {
         "husky": "^1.1.3",
